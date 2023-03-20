@@ -15,7 +15,6 @@
     font-size: 18px;
     transition: 0.2s;
     list-style-type: none;
-  
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -91,7 +90,8 @@
   
   .button {
     padding: 10px;
-    width: 25%;
+    width: 8rem;
+
     background: #d9d9d9;
     color: #555;
     float: left;
